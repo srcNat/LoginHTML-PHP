@@ -1,0 +1,14 @@
+body{
+    background-color: rgba(182, 150, 222, 0.34);
+    font-family: Arial, Helvetica, sans-serif;
+}
+form{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+textarea [name=conteudo]{
+    width: 569px;
+    height: 398px;
+}
